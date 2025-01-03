@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift coding error: passing incorrect data types to a function.  The `bug.swift` file showcases the error, while `bugSolution.swift` provides the corrected code.  This is a frequent mistake for beginners and highlights the importance of type safety in Swift.
